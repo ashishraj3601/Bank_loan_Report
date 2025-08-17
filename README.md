@@ -17,7 +17,6 @@ The goal of this analysis is to support **data-driven lending decisions** by tra
 ![Summary Dashboard](Report_Summary.png)
 
 ### 🔹 Details Page  
-*(Include snapshot if available — otherwise mention features)*  
 - Loan-wise detailed breakdown  
 - Filters for **loan grade** and **purpose**  
 - Drill-down analysis for better decision-making  
@@ -55,20 +54,8 @@ The goal of this analysis is to support **data-driven lending decisions** by tra
 - **Good Loans:** 86.18% | **Bad Loans:** 13.82%  
 - **Top Loan Purpose:** Credit card, home improvement, debt consolidation  
 
----
 
-## 🔮 Future Enhancements  
-- Automate data refresh using Power Query / Power BI integration  
-- Add borrower income group & credit score profiling  
-- Predictive modeling for loan default risk  
-
----
-
-## 🤝 Contribution  
-If you'd like to contribute or suggest improvements, feel free to open an issue or submit a pull request.  
-
----
 
 ## 📧 Contact  
 👤 **Ashish Raj**  
-📩 [Your Email / LinkedIn / GitHub Profile]  
+📩 [ashishraj3601@gmail.com]  
