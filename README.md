@@ -11,7 +11,7 @@ The goal of this analysis is to support **data-driven lending decisions** by tra
 ## 🖼️ Dashboard Snapshots  
 
 ### 🔹 Overview Page  
-![Overview Dashboard](./Screenshot%202025-07-30%20184851.png)
+![Overview Dashboard](Report_Overview.png)
 
 ### 🔹 Summary Page  
 ![Summary Dashboard](./Screenshot%202025-07-30%20184940.png)
